@@ -1,0 +1,40 @@
+body {
+  background: #222;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: lighter;
+  font-family: Courier;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: lighter;
+  font-family: Courier;
+}
+
+div.container {
+  background: #fff;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  padding: 30px;
+
+  font-family: "Times New Roman", serif;
+
+  border: 5px #222 dashed;
+}
+
+ol {
+  font-size: 18px;
+}
+
+li {
+  margin-bottom: 10px;
+  padding-left: 15px;
+}
+
